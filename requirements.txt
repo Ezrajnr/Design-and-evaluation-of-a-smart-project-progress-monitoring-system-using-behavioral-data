@@ -1,4 +1,4 @@
-gradio
+streamlit
 pandas
 scikit-learn
 numpy
